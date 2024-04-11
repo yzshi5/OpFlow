@@ -14,12 +14,12 @@ The repository contains codes for [Universal Functional Regression with Neural O
 | Files | Descriptions|
 |-------|-------------|
 |**Generation tasks**|
-|1D_domain_decomposed_GP.ipynb|placeholder|
-|1D_domain_decomposed_TGP.ipynb|placeholder|
-|2D_domain_decomposed_GRF.ipynb|placeholder|
-|2D_domain_decomposed_TGRF.ipynb|placeholder|
-|1D_codomain_GP.ipynb|pass|
-|2D_codomain_TGRF.ipynb|pass|
+|1D_domain_decomposed_GP.ipynb|resolution=256, Generation tasks for 1D GP data|
+|1D_domain_decomposed_TGP.ipynb|resolution=256, Generation tasks for 1D Truncaated GP data|
+|2D_domain_decomposed_GRF.ipynb|resolution=64x64, Generation tasks for 2D GRF data|
+|2D_domain_decomposed_TGRF.ipynb|resolution=64x64, Generation tasks for 2D Truncated GRF data|
+|1D_codomain_GP.ipynb|resolution=256, sliding regularization used, Generation tasks for 1D GP data, codomain OpFlow|
+|2D_codomain_TGRF.ipynb|resolution=64x64, Generatin tasks for 2D Truncated GRF data, codomain OpFlow|
 |**Regression tasks**|
 |1D_domain_decomposed_GP_prior.ipynb|pass|
 |1D_domain_decomposed_GP_Regression.ipynb|pass|
