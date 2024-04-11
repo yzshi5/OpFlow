@@ -22,18 +22,18 @@ The repository contains codes for [Universal Functional Regression with Neural O
 |2D_codomain_TGRF.ipynb|resolution=64x64, generatin tasks for 2D Truncated GRF data, codomain OpFlow|
 |**Regression tasks**|
 |1D_domain_decomposed_GP_prior.ipynb|resolution=128|
-|1D_domain_decomposed_GP_Regression.ipynb|pass|
+|1D_domain_decomposed_GP_Regression.ipynb|duplicate the results of classical GPR|
 |1D_domain_decomposed_TGP_prior.ipynb|resolution=128|
-|1D_domain_decomposed_TGP_Regression.ipynb|pass|
+|1D_domain_decomposed_TGP_Regression.ipynb|Non-Gaussian process regression|
 |2D_domain_decomposed_GRF_prior.ipynb|resolution=32x32|
-|2D_domain_decomposed_GRF_Regression_case1.ipynb|pass|
-|2D_domain_decomposed_GRF_Regression_case2.ipynb|pass|
+|2D_domain_decomposed_GRF_Regression_case1.ipynb|regression with scatter observations|
+|2D_domain_decomposed_GRF_Regression_case2.ipynb|regression with strip observations|
 |1D_codomain_GP_prior.ipynb|resolution=128|
-|1D_codomain_GP_Regression.ipynb|pass|
-|**SGLD sampling**|Folder|
-|samplers.py|pass|
-|SGLD.py|pass|
-|**Comments**| **sliding regularization** trick used in some files can be useful for others challenging tasks, feel free to add that part on for all tasks|
+|1D_codomain_GP_Regression.ipynb|codomain GP Regression|
+|**SGLD sampling**|
+|samplers.py|
+|SGLD.py|
+|**Comments**| **sliding regularization** trick used in some files can be useful for others challenging tasks, feel free to add that on for all tasks|
 
 ## Datasets
 Synthetic dataset can be directly generated in the training files, earthquake datasets used in the paper can be downloaded from kik-net website [kik-net](https://www.kyoshin.bosai.go.jp/)
