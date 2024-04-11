@@ -14,22 +14,22 @@ The repository contains codes for [Universal Functional Regression with Neural O
 | Files | Descriptions|
 |-------|-------------|
 |**Generation tasks**|
-|1D_domain_decomposed_GP|placeholder|
-|1D_domain_decomposed_TGP|placeholder|
-|2D_domain_decomposed_GRF|placeholder|
-|2D_domain_decomposed_TGRF|placeholder|
-|1D_codomain_GP|pass|
-|2D_codomain_TGRF|pass|
+|1D_domain_decomposed_GP.ipynb|placeholder|
+|1D_domain_decomposed_TGP.ipynb|placeholder|
+|2D_domain_decomposed_GRF.ipynb|placeholder|
+|2D_domain_decomposed_TGRF.ipynb|placeholder|
+|1D_codomain_GP.ipynb|pass|
+|2D_codomain_TGRF.ipynb|pass|
 |**Regression tasks**|
-|1D_domain_decomposed_GP_prior|pass|
-|1D_domain_decomposed_GP_Regression|pass|
-|1D_domain_decomposed_TGP_prior|pass|
-|1D_domain_decomposed_TGP_Regression|pass|
-|2D_domain_decomposed_GRF_prior|pass|
-|2D_domain_decomposed_GRF_Regression_case1|pass|
-|2D_domain_decomposed_GRF_Regression_case2|pass|
-|1D_codomain_GP_prior|pass|
-|1D_codomain_GP_Regression|pass|
+|1D_domain_decomposed_GP_prior.ipynb|pass|
+|1D_domain_decomposed_GP_Regression.ipynb|pass|
+|1D_domain_decomposed_TGP_prior.ipynb|pass|
+|1D_domain_decomposed_TGP_Regression.ipynb|pass|
+|2D_domain_decomposed_GRF_prior.ipynb|pass|
+|2D_domain_decomposed_GRF_Regression_case1.ipynb|pass|
+|2D_domain_decomposed_GRF_Regression_case2.ipynb|pass|
+|1D_codomain_GP_prior.ipynb|pass|
+|1D_codomain_GP_Regression.ipynb|pass|
 |**SGLD sampling**|Folder|
 |samplers.py|pass|
 |SGLD.py|pass|
