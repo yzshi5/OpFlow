@@ -6,3 +6,19 @@ The repository contains codes for [Universal Functional Regression with Neural O
 ## Requirements
 ``PyTorch 1.12.1 ``
 ``scikit-learn 1.2.2 ``
+
+
+## Files 
+| Files | Descriptions|
+|-------|-------------|
+|**Generation tasks**|
+|placeholder|placeholder|
+|**Regression tasks**|
+|placeholder|pass|
+|**SGLD sampling**|
+
+
+
+
+## Datasets
+Synthetic dataset 
