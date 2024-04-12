@@ -22,12 +22,12 @@ The repository contains codes for [Universal Functional Regression with Neural O
 |2D_codomain_TGRF.ipynb|resolution=64x64, generatin tasks for 2D Truncated GRF data, codomain OpFlow|
 |**Regression tasks**|
 |1D_domain_decomposed_GP_prior.ipynb|resolution=128|
-|1D_domain_decomposed_GP_Regression.ipynb|duplicate the results of classical GPR|
+|1D_domain_decomposed_GP_regression.ipynb|duplicate the results of classical GPR|
 |1D_domain_decomposed_TGP_prior.ipynb|resolution=128|
-|1D_domain_decomposed_TGP_Regression.ipynb|Non-Gaussian process regression|
+|1D_domain_decomposed_TGP_regression.ipynb|Non-Gaussian process regression|
 |2D_domain_decomposed_GRF_prior.ipynb|resolution=32x32|
-|2D_domain_decomposed_GRF_Regression_case1.ipynb|regression with scatter observations|
-|2D_domain_decomposed_GRF_Regression_case2.ipynb|regression with strip observations|
+|2D_domain_decomposed_GRF_regression_case1.ipynb|regression with scatter observations|
+|2D_domain_decomposed_GRF_regression_case2.ipynb|regression with strip observations|
 |1D_codomain_GP_prior.ipynb|resolution=128|
 |1D_codomain_GP_Regression.ipynb|codomain GP Regression|
 |**SGLD sampling**|
