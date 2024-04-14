@@ -4,7 +4,6 @@ modified from https://github.com/alisiahkoohi/Langevin-dynamics
 
 import torch
 
-from .precondSGLD import pSGLD
 from .SGLD import SGLD
 import copy
 import numpy as np
