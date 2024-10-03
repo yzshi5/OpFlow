@@ -1,7 +1,7 @@
 # Universal Functional Regression with Neural Operator Flows
 The repository contains codes for [Universal Functional Regression with Neural Operator Flows](https://arxiv.org/abs/2404.02986)
 
-(Appeared at Transaction of Machine Learning Research (TMLR), 2024 by Shi, Yaozhong and Gao, Angela F and Ross, Zachary E and Azizzadenesheli, Kamyar)
+(Appeared at Transaction on Machine Learning Research (TMLR), 2024 by Shi, Yaozhong and Gao, Angela F and Ross, Zachary E and Azizzadenesheli, Kamyar)
 
 ![image](https://github.com/yzshi5/OpFlow/assets/109268435/eab9e817-2b81-487c-88fb-90f18f424ed8) 
  
